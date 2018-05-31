@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BusQ</string>
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="zoom_gestures">缩放手势</string>
+    <string name="tilt">倾斜手势</string>
+    <string name="rotate">旋转手势</string>
+    <string name="scroll">滑动手势</string>
+    <string name="welcome">“欢迎使用BusQ”</string>
+    <string name="bt_map">地图查询</string>
+    <string name="bt_line">线路查询</string>
+    <string name="bt_station">站点查询</string>
+    <string name="bt_trans">换乘查询</string>
+
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+
+</resources>
